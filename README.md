@@ -62,3 +62,6 @@ Consider what you've learned so far. You've learned how to import modules like c
 The datasets for these Challenges are quite large. This was done purposefully to showcase one of the limits of Excel-based analysis. As data analysts, our first instinct is often to go straight to Excel, but creating scripts in Python can provide us with more powerful options for handling big data.
 
 Write one script for each of the provided datasets. Run each script separately to make sure that the code works for its respective dataset.
+
+NOTES:
+Code Source: I referenced code on Stack Overflow Forums, GitHub Open Source Code, and Learning Assistant/ChatGBT for the code within the VBA file: Sub ThreeYearStockAnalysis.vbs. I did not garner help from any TAs, tutors, or peers on this specific challenge.
