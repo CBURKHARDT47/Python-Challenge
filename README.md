@@ -1,6 +1,3 @@
-Dependencies: Must be in the Resources folder of either the PyBank folder or the PyPoll folder to run the code. 
-
-
 Module 2 Python Challenge 
 PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
